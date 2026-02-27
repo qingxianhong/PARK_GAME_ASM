@@ -4,3 +4,5 @@
 USAGE:windows可直接執行exe檔。
 
 或使用Irvine32.inc編譯。
+
+![Demo](./遊戲畫面.jpg)
